@@ -17,7 +17,7 @@ export function App() {
         </Button>
       </div>
 
-      <div className={'w-1/4'}>
+      <div className={'w-1/2 md:w-1/4'}>
         <Input allowClear size='large' />
       </div>
     </main>
