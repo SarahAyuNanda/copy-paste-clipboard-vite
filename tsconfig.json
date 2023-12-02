@@ -20,6 +20,7 @@
     "jsxImportSource": "preact",
 
     /* Linting */
+    "baseUrl": "./",
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
