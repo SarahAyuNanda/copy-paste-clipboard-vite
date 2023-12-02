@@ -1,6 +1,7 @@
 {
   "name": "copy-paste-clipboard-vite",
-  "private": false,
+  "homepage": ".",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
